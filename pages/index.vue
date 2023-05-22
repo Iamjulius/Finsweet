@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+ <homeHero/>
 </template>
 
 <script>
